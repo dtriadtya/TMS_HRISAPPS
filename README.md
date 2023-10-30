@@ -1,6 +1,7 @@
 # hris_tms
 
-A new Flutter project.
+Tirta Maju Sejahtra Mobile Human Resource Information Apps
+
 
 ## Getting Started
 
